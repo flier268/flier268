@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Chuan-Cheng LEE,who loves buiiding some application to help myself or other one.
+
+
 <!--
 **flier268/flier268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
